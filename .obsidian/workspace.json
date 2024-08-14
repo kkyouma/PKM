@@ -11,11 +11,16 @@
             "id": "20fcdd4b5e328d24",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "07 - Archivos/EDA.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "07 - Archivos/EDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "07 - Archivos/EDA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +125,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "07 - Archivos/EDA.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -135,9 +145,49 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "20fcdd4b5e328d24",
-  "lastOpenFiles": []
+  "active": "7406d16d833ac017",
+  "lastOpenFiles": [
+    "07 - Archivos/PLT0-Utilidades.md",
+    "07 - Archivos/PY4-String formating.md",
+    "07 - Archivos/Python DateTime.md",
+    "07 - Archivos/PD99-Cleaning DataFrames.md",
+    "07 - Archivos/PD4-Ordenar DataFrame.md",
+    "03 - Recursos/Cursos/Google Advanced Data Analytics/Outliers.md",
+    "07 - Archivos/EDA.md",
+    "03 - Recursos/ChatGPT/Spreadsheets cheat sheet.md",
+    "02 - Areas/Trabajo/Spreadsheets/Barras de progreso en spreadsheets.md",
+    "03 - Recursos/ChatGPT",
+    "02 - Areas/Trabajo/Spreadsheets",
+    "02 - Areas/Trabajo/Gestion de tickets PedidosYa.md",
+    "02 - Areas/Trabajo/Untitled.canvas",
+    "05 - Fugaz/Untitled.md",
+    "02 - Areas/Trabajo",
+    "Python.md",
+    "99 - Meta/Attachmens",
+    "03 - Recursos/Universidad",
+    "99 - Meta/Templates/Plantilla Personas.md",
+    "03 - Recursos/Cursos/Google Advanced Data Analytics",
+    "03 - Recursos/Cursos",
+    "00 - Mapa de contenido/Data engineering.md",
+    "00 - Mapa de contenido/HOME.md",
+    "99 - Meta/Templates/Plantilla Base.md",
+    "Untitled.md",
+    "Outliers.md",
+    "02 - Areas/Data/Untitled.md",
+    "README.md",
+    "00 - Mapa de contenido/Data science.md",
+    "00 - Mapa de contenido/Untitled.canvas",
+    "Viewer.md",
+    "03 - Recursos/Untitled",
+    "03 - Recursos/Python",
+    "03 - Recursos/Untitled.md",
+    "07 - Archivos",
+    "Untitled 1.md",
+    "2024-07-29.md",
+    "Untitled 2.md"
+  ]
 }

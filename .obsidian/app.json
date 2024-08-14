@@ -1,1 +1,10 @@
-{}
+{
+  "defaultViewMode": "preview",
+  "trashOption": "system",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "05 - Fugaz",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "99 - Meta/attachments",
+  "showInlineTitle": false,
+  "promptDelete": false
+}

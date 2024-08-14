@@ -1,1 +1,9 @@
-{}
+{
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "CyanVoxel's General Tweaks"
+  ]
+}
