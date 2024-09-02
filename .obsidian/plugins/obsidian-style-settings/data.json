@@ -76,5 +76,6 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
   "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,
-  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout"
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
+  "anuppuccin-theme-settings@@anp-button-metadata-toggle": true
 }

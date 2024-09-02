@@ -5,6 +5,7 @@ tags:
   - Programacion/python
 aliases:
   - outliers
+  - valores atipicos
 ---
 # Outliers
 ## Tipos de outliers

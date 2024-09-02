@@ -2,8 +2,11 @@
   "theme": "obsidian",
   "cssTheme": "AnuPpuccin",
   "accentColor": "",
-  "showViewHeader": true,
+  "showViewHeader": false,
   "enabledCssSnippets": [
-    "CyanVoxel's General Tweaks"
-  ]
+    "CyanVoxel's General Tweaks",
+    "show_properties"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 17
 }

@@ -6,6 +6,7 @@
     "date": "date",
     "created": "date",
     "ultima_interaccion": "datetime",
-    "cumpleanos": "date"
+    "cumpleanos": "date",
+    "type": "multitext"
   }
 }

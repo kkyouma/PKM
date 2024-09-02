@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiLinkedin",
       "SiOpenai",
       "SiCoursera",
       "SiGoogle",
-      "BoBxsNote",
-      "BoBxsPackage"
+      "BoBxsNote"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "05 - Fugaz": "BoBxsPencil",
   "03 - Recursos/Cursos/Google Advanced Data Analytics": "SiGoogle",
   "03 - Recursos/Cursos": "SiCoursera",
-  "03 - Recursos/ChatGPT": "SiOpenai"
+  "03 - Recursos/ChatGPT": "SiOpenai",
+  "03 - Recursos/Linkedin": "SiLinkedin"
 }

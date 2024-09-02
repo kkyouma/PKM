@@ -4,7 +4,10 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "05 - Fugaz",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "99 - Meta/attachments",
+  "attachmentFolderPath": "99 - Meta/attachments/images",
   "showInlineTitle": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false,
+  "showRibbon": false,
+  "vimMode": false
 }
